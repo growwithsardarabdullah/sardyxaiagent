@@ -1,0 +1,6 @@
+{
+  "name": "Sardyx AI",
+  "description": "Premium, next-generation AI Workspace and SaaS platform with highly animated Vercel-style aesthetics, advanced chat agents, custom workflows, and unified AI operations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
